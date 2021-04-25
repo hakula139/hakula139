@@ -15,7 +15,7 @@ BS, Computer Science (Honors Program) @ Fudan U
 
 - 👨‍💻&ensp;I'm currently working on:
   - **an SIP device / room connector manager (full stack)** @ Lark, ByteDance
-  - **[Teach Us Please (tuplz)](https://github.com/tuplz/tuplz-fe), a problem recommender system (frontend)** @ *Software Engineering (2021 Spring)*, Fudan University
+  - **[Teach Us Please](https://github.com/tuplz/tuplz-fe), a problem recommender system (frontend)** @ *Software Engineering (2021 Spring)*, Fudan U
 
 - 🌱&ensp;I'm currently learning:
   - **Algorithms**
@@ -37,7 +37,7 @@ BS, Computer Science (Honors Program) @ Fudan U
 
 [<img src="https://github-readme-stats.vercel.app/api?username=hakula139&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="200" />](https://github.com/anuraghazra/github-readme-stats)
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakula139&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&exclude_repo=MIPS-Toolchain" alt="Most Used Languages" height="200" />](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakula139&theme=dark" alt="Streak Stats" height="200" />](https://github.com/DenverCoder1/github-readme-streak-stats)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakula139&theme=dark&hide_border=true" alt="Streak Stats" height="200" />](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### Programming Languages
 
