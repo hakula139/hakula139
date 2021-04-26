@@ -37,9 +37,9 @@ BS, Computer Science (Honors Program) @ Fudan U
 
 <div align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hakula&theme=dark&layout=compact" alt="Wakatime Stats" width="100%" />](https://wakatime.com)
-[<img src="https://github-readme-stats.vercel.app/api?username=hakula139&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="200" />](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakula139&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&exclude_repo=MIPS-Toolchain" alt="Most Used Languages" height="200" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hakula&theme=dark&hide_border=true&cache_seconds=1800" alt="Wakatime Stats" width="100%" />](https://wakatime.com)
+[<img src="https://github-readme-stats.vercel.app/api?username=hakula139&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="200" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakula139&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800&exclude_repo=MIPS-Toolchain" alt="Most Used Languages" height="200" />](https://github.com/anuraghazra/github-readme-stats)
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakula139&theme=dark&hide_border=true" alt="Streak Stats" height="200" />](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
