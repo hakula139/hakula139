@@ -7,7 +7,7 @@
 Software Engineer Intern @ ByteDance  
 BS, Computer Science (Honors Program) @ Fudan U
 
-[![hakula139](https://github-profile-trophy.vercel.app/?username=hakula139)](https://github.com/ryo-ma/github-profile-trophy)
+[![hakula139](https://github-profile-trophy.vercel.app/?username=hakula139&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
