@@ -14,7 +14,7 @@ BS, Computer Science (Honors Program) @ Fudan U
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - **an SIP device / room connector manager (full stack)** @ Lark, ByteDance
+  - **an [SIP device / room connector manager](https://www.feishu.cn/solutions/sip) (full stack)** @ Lark, ByteDance
   - **[Teach Us Please](https://github.com/tuplz/tuplz-fe), a problem recommender system (frontend)** @ *Software Engineering (2021 Spring)*, Fudan U
 
 - 🌱&ensp;I'm currently learning:
