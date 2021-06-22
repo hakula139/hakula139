@@ -4,7 +4,6 @@
 
 # Hi 👋, I'm Hakula Chen
 
-Software Engineer Intern @ ByteDance  
 BS, Computer Science (Honors Program) @ Fudan U
 
 [![hakula139](https://github-profile-trophy.vercel.app/?username=hakula139&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -14,8 +13,10 @@ BS, Computer Science (Honors Program) @ Fudan U
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - **[Feishu SIP Room Connector](https://www.feishu.cn/solutions/sip) (full stack)** @ Lark, ByteDance
+  - **[dna-error-detection](https://github.com/hakula139/dna-error-detection), a DNA sequence error detection algorithm for PacBio sequencing** @ *Algorithms (2021 Spring)*, Fudan U
+    - [![wakatime](https://wakatime.com/badge/github/hakula139/dna-error-detection.svg)](https://wakatime.com/badge/github/hakula139/dna-error-detection)
   - **[Teach Us Please](https://github.com/tuplz/tuplz-fe), a problem recommender system (frontend)** @ *Software Engineering (2021 Spring)*, Fudan U
+    - [![wakatime](https://wakatime.com/badge/github/tuplz/tuplz-fe.svg)](https://wakatime.com/badge/github/tuplz/tuplz-fe)
 
 - 🌱&ensp;I'm currently learning:
   - **Algorithms**
@@ -31,7 +32,7 @@ BS, Computer Science (Honors Program) @ Fudan U
 
 - 📬&ensp;How to reach me: **i#hakula.xyz**
 
-- 📄&ensp;Know more about my experiences at **[Hakula (Hongyi) Chen · LinkedIn](https://www.linkedin.com/in/hakula)**
+- 📄&ensp;Know more about my experiences on **[Hakula (Hongyi) Chen · LinkedIn](https://www.linkedin.com/in/hakula)**
 
 ## Stats
 
