@@ -13,9 +13,13 @@ BS, Computer Science (Honors Program) @ Fudan U
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - **[dna-error-detection](https://github.com/hakula139/dna-error-detection), a DNA sequence error detection algorithm for PacBio sequencing** @ *Algorithms (2021 Spring)*, Fudan U
+  - [ ] **[prml-models](https://github.com/hakula139/prml-models), containing 5 distinct neural network models, implemented with PyTorch** @ *PRML (2021 Spring)*, Fudan U
+  - [x] ~~**[dna-error-detection](https://github.com/hakula139/prml-models), a DNA sequence error detection algorithm for PacBio sequencing** @ *Algorithms (2021 Spring)*, Fudan U~~
     - [![wakatime](https://wakatime.com/badge/github/hakula139/dna-error-detection.svg)](https://wakatime.com/badge/github/hakula139/dna-error-detection)
-  - **[Teach Us Please](https://github.com/tuplz/tuplz-fe), a problem recommender system (frontend)** @ *Software Engineering (2021 Spring)*, Fudan U
+  - [x] ~~**[Feishu SIP Room Connector](https://www.feishu.cn/solutions/sip) (full stack)** @ Lark, ByteDance~~
+    - Frontend: **114 hrs**
+    - Backend: **181 hrs**
+  - [x] ~~**[Teach Us Please](https://github.com/tuplz/tuplz-fe), a problem recommender system (frontend)** @ *Software Engineering (2021 Spring)*, Fudan U~~
     - [![wakatime](https://wakatime.com/badge/github/tuplz/tuplz-fe.svg)](https://wakatime.com/badge/github/tuplz/tuplz-fe)
 
 - 🌱&ensp;I'm currently learning:
