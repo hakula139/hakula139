@@ -14,7 +14,7 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [x] ~~**[dna-error-detection](https://github.com/hakula139/prml-models), a DNA sequence error detection algorithm for PacBio sequencing** @ _Algorithms (2021 Spring)_, Fudan U~~
+  - [x] ~~**[dna-error-detection](https://github.com/hakula139/dna-error-detection), a DNA sequence error detection algorithm for PacBio sequencing** @ _Algorithms (2021 Spring)_, Fudan U~~
     - [![wakatime](https://wakatime.com/badge/github/hakula139/dna-error-detection.svg)](https://wakatime.com/badge/github/hakula139/dna-error-detection)
   - [x] ~~**[Feishu SIP Room Connector](https://www.feishu.cn/solutions/sip) (full stack)** @ Lark, ByteDance~~
     - Frontend: **114 hrs**
