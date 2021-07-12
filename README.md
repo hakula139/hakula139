@@ -14,21 +14,15 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [x] ~~**[dna-error-detection](https://github.com/hakula139/dna-error-detection), a DNA sequence error detection algorithm for PacBio sequencing** @ _Algorithms (2021 Spring)_, Fudan U~~
-    - [![wakatime](https://wakatime.com/badge/github/hakula139/dna-error-detection.svg)](https://wakatime.com/badge/github/hakula139/dna-error-detection)
-  - [x] ~~**[Feishu SIP Room Connector](https://www.feishu.cn/solutions/sip) (full stack)** @ Lark, ByteDance~~
-    - Frontend: **114 hrs**
-    - Backend: **181 hrs**
-  - [x] ~~**[Teach Us Please](https://github.com/tuplz/tuplz-fe), a problem recommender system (frontend)** @ _Software Engineering (2021 Spring)_, Fudan U~~
-    - [![wakatime](https://wakatime.com/badge/github/tuplz/tuplz-fe.svg)](https://wakatime.com/badge/github/tuplz/tuplz-fe)
-
-- 🌱&ensp;I'm currently learning:
-  - [x] ~~**Algorithms**~~
-  - [x] ~~**Software Engineering**~~
-  - [x] ~~**PRML** (Pattern Recognition and Machine Learning)~~
+  - [ ] **Resource Usage Prediction** @ TiMi Studio Group, Tencent
+    - A server resource usage predictor, developed with [PyTorch C++ frontend](https://pytorch.org/cppdocs/frontend.html).
+    - Time spent: **WIP**
+  - [x] **Flowchart Visualization** @ TiMi Studio Group, Tencent
+    - A flowchart visualization tool for our **Level Event Analyzer** on server, built with [Vue 3](https://vue3js.cn/docs) and [GoJS](https://gojs.net).
+    - Time spent: **40 hrs**
 
 - 📖&ensp;I'm currently reading:
-  - [x] ~~**_Introduction to Algorithms, 3rd Edition (CLRS)_**~~
+  - [ ] **_Computer Networking: A Top-Down Approach_**
 
 - 🔮&ensp;Most of my projects are available at **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
