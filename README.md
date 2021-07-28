@@ -14,9 +14,9 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [x] **Resource Usage Prediction** @ TiMi Studio Group, Tencent
-    - A server resource usage predictor, developed with [PyTorch C++ frontend](https://pytorch.org/cppdocs/frontend.html).
-    - Time spent: **30 hrs**
+  - [ ] **Resource Usage Prediction** @ TiMi Studio Group, Tencent
+    - A time series based server resource usage predictor trained on a Bi-GRU model, developed with [PyTorch (C++ frontend)](https://pytorch.org/cppdocs/frontend.html).
+    - Time spent: **54 hrs**
   - [x] **Flowchart Visualization** @ TiMi Studio Group, Tencent
     - A flowchart visualization tool for our **Level Event Analyzer** on server, built with [Vue 3](https://vue3js.cn/docs) and [GoJS](https://gojs.net).
     - Time spent: **40 hrs**
