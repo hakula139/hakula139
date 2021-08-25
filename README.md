@@ -14,21 +14,22 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
+  - [ ] **Grass Map** @ TiMi Studio Group, Tencent
+    - A high-efficiency memory-mapped grass unit shared between processes, written in modern C++.
+    - Time spent: WIP
   - [x] **Resource Usage Prediction** @ TiMi Studio Group, Tencent
-    - A time-series based server resource usage predictor trained on a Seq2Seq-GRU model, developed with [PyTorch (C++ frontend)](https://pytorch.org/cppdocs/frontend.html).
-    - Time spent: **85 hrs**
+    - A multithreaded time-series based **real-time** server resource usage predictor, trained on a GRU model, developed with [LibTorch (C++)](https://pytorch.org/cppdocs/frontend.html).
+    - Prediction latency: about **3 ms**
+    - Time spent: **103 hrs**
   - [x] **Flowchart Visualization** @ TiMi Studio Group, Tencent
-    - A flowchart visualization tool for our **Level Event Analyzer** on server, built with [Vue 3](https://vue3js.cn/docs) and [GoJS](https://gojs.net).
+    - A visualization tool which converts real-time stage event stream logs into human-friendly flowcharts, built with [Vue 3](https://vue3js.cn/docs) and [GoJS](https://gojs.net).
     - Time spent: **40 hrs**
-
-- 📖&ensp;I'm currently reading:
-  - [ ] **_Computer Networking: A Top-Down Approach_**
 
 - 🔮&ensp;Most of my projects are available at **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
 - ✏️&ensp;I regularly post articles on **[HAKULA†CHANNEL](https://hakula.xyz)**
 
-- 📬&ensp;How to reach me: **i#hakula.xyz**
+- 📬&ensp;How to reach me: **<i@hakula.xyz>**
 
 - 📄&ensp;Know more about my experiences on **[Hakula (Hongyi) Chen · LinkedIn](https://www.linkedin.com/in/hakula)**
 
