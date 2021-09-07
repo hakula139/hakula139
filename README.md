@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Hakula Chen
 
-**Software Engineer Intern @ TiMi Studio Group, Tencent**  
+**Backend Developer Intern @ TiMi Studio Group, Tencent**  
 **BS, Computer Science (Honors Program) @ Fudan U**  
 
 [![hakula139](https://github-profile-trophy.vercel.app/?username=hakula139&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -14,20 +14,20 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [ ] **Grass Map** @ TiMi Studio Group, Tencent
-    - A high-efficiency memory-mapped grass unit shared between processes, written in modern C++.
-    - Time spent: WIP
+  - [x] **Grass Map** @ TiMi Studio Group, Tencent
+    - An mmap-based high performance grass map object shared between processes, written in modern C++.
+    - Time spent: **51 hrs**
   - [x] **Resource Usage Prediction** @ TiMi Studio Group, Tencent
-    - A multithreaded time-series based **real-time** server resource usage predictor, trained on a GRU model, developed with [LibTorch (C++)](https://pytorch.org/cppdocs/frontend.html).
-    - Prediction latency: about **3 ms**
+    - A multi-threaded time-series-based **real-time** server resource usage predictor, trained dynamically on a GRU model, developed with [LibTorch (C++)](https://pytorch.org/cppdocs/frontend.html).
+    - The latency is about **3 ms** with an accuracy of **> 97%**. Our multi-threaded design enables 100 instances to be predicted simultaneously by **> 1k QPS** in total, without reducing the performance and accuracy of the system, while only **140 MB** of RAM is used for the real-time training & prediction.
     - Time spent: **103 hrs**
   - [x] **Flowchart Visualization** @ TiMi Studio Group, Tencent
-    - A visualization tool which converts real-time stage event stream logs into human-friendly flowcharts, built with [Vue 3](https://vue3js.cn/docs) and [GoJS](https://gojs.net).
+    - A visualization tool which converts real-time event streams of game levels into human-friendly flowcharts, built with [Vue 3](https://vue3js.cn/docs) and [GoJS](https://gojs.net).
     - Time spent: **40 hrs**
 
-- 🔮&ensp;Most of my projects are available at **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
+- 🔮&ensp;Most of my individual projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
-- ✏️&ensp;I regularly post articles on **[HAKULA†CHANNEL](https://hakula.xyz)**
+- ✏️&ensp;I regularly post tech articles on **[HAKULA†CHANNEL](https://hakula.xyz)**
 
 - 📬&ensp;How to reach me: **<i@hakula.xyz>**
 
