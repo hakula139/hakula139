@@ -16,14 +16,14 @@
 - 👨‍💻&ensp;I'm currently working on:
   - [x] **Grass Map** @ TiMi Studio Group, Tencent
     - An mmap-based high performance grass map object shared between processes, written in modern C++.
-    - Time spent: **51 hrs**
+    - Time spent: **53.5 hrs**
   - [x] **Resource Usage Prediction** @ TiMi Studio Group, Tencent
     - A multi-threaded time-series-based **real-time** server resource usage predictor, trained dynamically on a GRU model, developed with [LibTorch (C++)](https://pytorch.org/cppdocs/frontend.html).
     - The latency is about **3 ms** with an accuracy of **> 97%**. Our multi-threaded design enables 100 instances to be predicted simultaneously by **> 1k QPS** in total, without reducing the performance and accuracy of the system, while only **140 MB** of RAM is used for the real-time training & prediction.
-    - Time spent: **103 hrs**
+    - Time spent: **102.5 hrs**
   - [x] **Flowchart Visualization** @ TiMi Studio Group, Tencent
     - A visualization tool which converts real-time event streams of game levels into human-friendly flowcharts, built with [Vue 3](https://vue3js.cn/docs) and [GoJS](https://gojs.net).
-    - Time spent: **40 hrs**
+    - Time spent: **49 hrs**
 
 - 🔮&ensp;Most of my individual projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
