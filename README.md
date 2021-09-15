@@ -25,6 +25,8 @@
     - A visualization tool which converts real-time event streams of game levels into human-friendly flowcharts, built with [Vue 3](https://vue3js.cn/docs) and [GoJS](https://gojs.net).
     - Time spent: **49 hrs**
 
+- 🌱&ensp;I'm currently learning: **Haskell**
+
 - 🔮&ensp;Most of my individual projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
 - ✏️&ensp;I regularly post tech articles on **[HAKULA†CHANNEL](https://hakula.xyz)**
