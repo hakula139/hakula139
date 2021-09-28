@@ -15,6 +15,7 @@
 
 - 👨‍💻&ensp;I'm currently working on:
   - [ ] [**99-Haskell-Problems-Solutions**](https://github.com/hakula139/99-Haskell-Problems-Solutions), my solutions for [Ninety-Nine Haskell Problems](https://wiki.haskell.org/99_questions).
+  - [ ] [**lexical_analyzer**](https://github.com/hakula139/lexical_analyzer), a toy lexical analyzer for the PCAT language.
 
 - 🌱&ensp;I'm currently learning:
   - **Haskell**
@@ -26,6 +27,7 @@
 
 - 📚&ensp;I'm currently reading:
   - [ ] [**_Learn You a Haskell for Great Good!_**](http://learnyouahaskell.com)
+  - [ ] **_Compilers: Principles, Techniques, & Tools_**
 
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
