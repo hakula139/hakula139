@@ -14,7 +14,7 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [ ] **acm_toolbox**, a web-based toolbox for ACM server @ TiMi, Tencent
+  - [x] **acm_toolbox**, a web-based toolbox for ACM server @ TiMi, Tencent
   - [ ] [**99-Haskell-Problems-Solutions**](https://github.com/hakula139/99-Haskell-Problems-Solutions), my solutions for [Ninety-Nine Haskell Problems](https://wiki.haskell.org/99_questions)
   - [x] [**lexical_analyzer**](https://github.com/hakula139/lexical_analyzer), a toy lexical analyzer for the PCAT language @ Fudan U
 
