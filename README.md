@@ -24,6 +24,7 @@
   - **Compilers**
   - **Computer Graphics**
   - **Distributed Systems**
+  - **Android Software Development**
 
 - 📚&ensp;I'm currently reading:
   - [ ] [**_Learn You a Haskell for Great Good!_**](http://learnyouahaskell.com)
