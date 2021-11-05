@@ -19,16 +19,18 @@
   - [x] [**lexical_analyzer**](https://github.com/hakula139/lexical_analyzer), a toy lexical analyzer for the PCAT language @ Fudan U
 
 - 🌱&ensp;I'm currently learning:
-  - **Haskell**
-  - **SICP**, Structure and Interpretation of Computer Programs @ MIT 6.001
   - **Compilers**
+  - **Android Development**
+  - **Docker**
+  - **NestJS**
   - **Computer Graphics**
   - **Distributed Systems**
-  - **Android Software Development**
+  - **Haskell**
+  - **SICP**, Structure and Interpretation of Computer Programs @ MIT 6.001
 
 - 📚&ensp;I'm currently reading:
-  - [ ] [**_Learn You a Haskell for Great Good!_**](http://learnyouahaskell.com)
   - [ ] **_Compilers: Principles, Techniques, & Tools_**
+  - [ ] [**_Learn You a Haskell for Great Good!_**](http://learnyouahaskell.com)
 
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
