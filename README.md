@@ -22,7 +22,7 @@
   - **Compilers**
   - **Android Development**
   - **Docker**
-  - **NestJS**
+  - **NuxtJS**
   - **Computer Graphics**
   - **Distributed Systems**
   - **Haskell**
