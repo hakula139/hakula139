@@ -21,10 +21,9 @@
 - 🌱&ensp;I'm currently learning:
   - **Compilers**
   - **Android Development**
-  - **Docker**
-  - **NuxtJS**
   - **Computer Graphics**
   - **Distributed Systems**
+  - **Hadoop**
   - **Haskell**
   - **SICP**, Structure and Interpretation of Computer Programs @ MIT 6.001
 
