@@ -14,9 +14,7 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [x] **acm_toolbox**, a web-based toolbox for ACM server @ TiMi, Tencent
-  - [ ] [**99-Haskell-Problems-Solutions**](https://github.com/hakula139/99-Haskell-Problems-Solutions), my solutions for [Ninety-Nine Haskell Problems](https://wiki.haskell.org/99_questions)
-  - [x] [**lexical_analyzer**](https://github.com/hakula139/lexical_analyzer), a toy lexical analyzer for the PCAT language @ Fudan U
+  - [ ] [**pcat_parser**](https://github.com/hakula139/pcat_parser), a toy parser for the PCAT language @ Fudan U
 
 - 🌱&ensp;I'm currently learning:
   - **Compilers**
@@ -25,11 +23,9 @@
   - **Distributed Systems**
   - **Hadoop**
   - **Haskell**
-  - **SICP**, Structure and Interpretation of Computer Programs @ MIT 6.001
 
 - 📚&ensp;I'm currently reading:
   - [ ] **_Compilers: Principles, Techniques, & Tools_**
-  - [ ] [**_Learn You a Haskell for Great Good!_**](http://learnyouahaskell.com)
 
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
