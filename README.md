@@ -14,15 +14,13 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [ ] [**pcat_parser**](https://github.com/hakula139/pcat_parser), a toy parser for the PCAT language @ Fudan U
+  - [x] [**pcat_parser**](https://github.com/hakula139/pcat_parser), a toy parser for the PCAT language @ Fudan U
 
 - 🌱&ensp;I'm currently learning:
   - **Compilers**
-  - **Android Development**
   - **Computer Graphics**
   - **Distributed Systems**
   - **Hadoop**
-  - **Haskell**
 
 - 📚&ensp;I'm currently reading:
   - [ ] **_Compilers: Principles, Techniques, & Tools_**
@@ -60,9 +58,11 @@
 ### Frontend Development
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50" />](https://v3.vuejs.org)
+[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vite.svg" alt="vite" width="50" height="50" />](https://vitejs.dev)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="50" height="50" />](https://tailwindcss.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" />](https://sass-lang.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" />](https://html.spec.whatwg.org/multipage)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" />](https://www.w3.org/Style/CSS)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" />](https://sass-lang.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="50" height="50" />](https://webpack.js.org)
 
 ### Backend Development
@@ -87,6 +87,7 @@
 ### Other
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50" />](https://ubuntu.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />](https://code.visualstudio.com)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />](https://git-scm.com)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />](https://postman.com)
 [<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="50" height="50" />](https://www.elastic.co/kibana)
