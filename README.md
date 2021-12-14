@@ -15,7 +15,7 @@
 
 - 👨‍💻&ensp;I'm currently working on:
   - [ ] [**woogle**](https://github.com/hakula139/woogle), a toy search engine for the Wikipedia Corpus, built with MapReduce @ Fudan U
-    - Time spent: **41 h** (WIP)
+    - Time spent: **53 h** (WIP)
   - [x] [**pcat_parser**](https://github.com/hakula139/pcat_parser), a toy parser for the PCAT language @ Fudan U
     - Time spent: **63 h**
 
@@ -57,6 +57,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50" />](https://golang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="50" height="50" />](https://www.haskell.org)
 [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_systemverilog.svg" alt="systemverilog" width="50" height="50" />](https://en.wikipedia.org/wiki/SystemVerilog)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />](https://www.java.com)
 
 ### Frontend Development
 
