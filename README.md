@@ -14,8 +14,8 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [ ] [**woogle**](https://github.com/hakula139/woogle), a toy search engine for the Wikipedia Corpus, built with MapReduce @ Fudan U
-    - Time spent: **53 h** (WIP)
+  - [x] [**woogle**](https://github.com/hakula139/woogle), a toy search engine for the Wikipedia Corpus, built with MapReduce @ Fudan U
+    - Time spent: **68 h**
   - [x] [**pcat_parser**](https://github.com/hakula139/pcat_parser), a toy parser for the PCAT language @ Fudan U
     - Time spent: **63 h**
 
@@ -23,7 +23,6 @@
   - **Compilers**
   - **Computer Graphics**
   - **Distributed Systems**
-  - **Hadoop MapReduce**
 
 - 📚&ensp;I'm currently reading:
   - [ ] **_Compilers: Principles, Techniques, & Tools_**
