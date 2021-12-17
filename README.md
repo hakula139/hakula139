@@ -14,6 +14,9 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
+  - [ ] **CareeCuz**, 一个匿名的校招求职交流平台 @ Fudan U
+    - [ ] [**careecuz-frontend**](https://github.com/hakula139/careecuz-frontend), the frontend of CareeCuz, built with Vue 3
+    - [ ] [**careecuz-backend**](https://github.com/hakula139/careecuz-backend), the backend of CareeCuz, built with Express (Node.js)
   - [x] [**woogle**](https://github.com/hakula139/woogle), a toy search engine for the Wikipedia Corpus, built with MapReduce @ Fudan U
     - Time spent: **72 h**
   - [x] [**pcat_parser**](https://github.com/hakula139/pcat_parser), a toy parser for the PCAT language @ Fudan U
