@@ -48,8 +48,8 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=hakula139&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="600" />](https://github.com/anuraghazra/github-readme-stats)  
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hakula&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on&cache_seconds=1800" alt="Wakatime Stats" width="600" />](https://wakatime.com/@Hakula)  
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakula139&theme=dark&hide_border=true" alt="Streak Stats" width="600" />](https://github.com/DenverCoder1/github-readme-streak-stats)  
-[<img src="https://api.githubtrends.io/user/svg/hakula139/langs?time_range=one_year&include_private=true&loc_metric=changed&theme=dark" alt="Most Used Languages" width="300" />](https://www.githubtrends.io)
-[<img src="https://api.githubtrends.io/user/svg/hakula139/repos?time_range=one_year&include_private=true&loc_metric=changed&theme=dark" alt="Most Contributed Repositories" width="300" />](https://www.githubtrends.io)  
+[<img src="https://api.githubtrends.io/user/svg/hakula139/langs?time_range=one_year&include_private=true&theme=dark" alt="Most Used Languages" width="350" />](https://www.githubtrends.io)
+[<img src="https://api.githubtrends.io/user/svg/hakula139/repos?time_range=one_year&include_private=true&theme=dark" alt="Most Contributed Repositories" width="350" />](https://www.githubtrends.io)  
 
 </div>
 
