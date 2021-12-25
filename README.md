@@ -7,6 +7,8 @@
 **Backend Developer Intern @ TiMi Studio Group, Tencent**  
 **BS, Computer Science (Honors Program) @ Fudan U**  
 
+[![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
+
 [![hakula139](https://github-profile-trophy.vercel.app/?username=hakula139&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -17,6 +19,7 @@
   - [ ] **CareeCuz**, 一个匿名的校招求职交流平台 @ Fudan U
     - [ ] [**careecuz-frontend**](https://github.com/hakula139/careecuz-frontend), the frontend of CareeCuz, built with Vue 3
     - [ ] [**careecuz-backend**](https://github.com/hakula139/careecuz-backend), the backend of CareeCuz, built with Express (Node.js)
+    - Time spent: **75 h** (WIP)
   - [x] [**woogle**](https://github.com/hakula139/woogle), a toy search engine for the Wikipedia Corpus, built with MapReduce @ Fudan U
     - Time spent: **72 h**
   - [x] [**pcat_parser**](https://github.com/hakula139/pcat_parser), a toy parser for the PCAT language @ Fudan U
