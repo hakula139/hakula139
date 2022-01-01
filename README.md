@@ -16,8 +16,8 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [ ] [**naive-ray-tracer**](https://github.com/hakula139/naive-ray-tracer), a naive ray tracer, written in modern C++ @ Fudan U
-    - (WIP)
+  - [x] [**naive-ray-tracer**](https://github.com/hakula139/naive-ray-tracer), a naive ray tracer, written in modern C++ @ Fudan U
+    - Time spent: **8.5 h**
   - [x] [**music-visualization**](https://github.com/hakula139/music-visualization), a simple tool for music visualization, utilizing HTML5 Canvas @ Fudan U
     - Time spent: **16 h**
   - [ ] **CareeCuz**, 一个匿名的校招求职交流平台 @ Fudan U
