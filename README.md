@@ -16,19 +16,18 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
+  - [ ] [**naive-ray-tracer**](https://github.com/hakula139/naive-ray-tracer), a naive ray tracer, written in modern C++ @ Fudan U
+    - (WIP)
+  - [x] [**music-visualization**](https://github.com/hakula139/music-visualization), a simple tool for music visualization, utilizing HTML5 Canvas @ Fudan U
+    - Time spent: **16 h**
   - [ ] **CareeCuz**, 一个匿名的校招求职交流平台 @ Fudan U
     - [ ] [**careecuz-frontend**](https://github.com/hakula139/careecuz-frontend), the frontend of CareeCuz, built with Vue 3
     - [ ] [**careecuz-backend**](https://github.com/hakula139/careecuz-backend), the backend of CareeCuz, built with Express (Node.js)
     - Time spent: **75 h** (WIP)
-  - [x] [**woogle**](https://github.com/hakula139/woogle), a toy search engine for the Wikipedia Corpus, built with MapReduce @ Fudan U
-    - Time spent: **72 h**
-  - [x] [**pcat_parser**](https://github.com/hakula139/pcat_parser), a toy parser for the PCAT language @ Fudan U
-    - Time spent: **63 h**
 
 - 🌱&ensp;I'm currently learning:
-  - **Compilers**
   - **Computer Graphics**
-  - **Distributed Systems**
+  - **Compilers**
 
 - 📚&ensp;I'm currently reading:
   - [ ] **_Compilers: Principles, Techniques, & Tools_**
