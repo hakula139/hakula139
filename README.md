@@ -23,10 +23,9 @@
   - [ ] **CareeCuz**, 一个匿名的校招求职交流平台 @ Fudan U
     - [ ] [**careecuz-frontend**](https://github.com/hakula139/careecuz-frontend), the frontend of CareeCuz, built with Vue 3
     - [ ] [**careecuz-backend**](https://github.com/hakula139/careecuz-backend), the backend of CareeCuz, built with Express (Node.js)
-    - Time spent: **75 h** (WIP)
+    - Time spent: **79 h** (WIP)
 
 - 🌱&ensp;I'm currently learning:
-  - **Computer Graphics**
   - **Compilers**
 
 - 📚&ensp;I'm currently reading:
