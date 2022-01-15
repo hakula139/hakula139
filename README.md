@@ -49,9 +49,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />](https://www.javascript.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50" />](https://golang.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="50" height="50" />](https://www.haskell.org)
-[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_systemverilog.svg" alt="systemverilog" width="50" height="50" />](https://en.wikipedia.org/wiki/SystemVerilog)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />](https://www.java.com)
+[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_systemverilog.svg" alt="systemverilog" width="50" height="50" />](https://en.wikipedia.org/wiki/SystemVerilog)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="50" height="50" />](https://www.haskell.org)
 
 ### Frontend Development
 
@@ -68,8 +68,9 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" />](https://nodejs.org)
 [<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50" />](https://flask.palletsprojects.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />](https://www.mysql.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="50" height="50" />](https://sequelize.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" />](https://www.mongodb.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50" />](https://redis.io)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket-io" width="50" height="50" />](https://socket.io)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" />](https://www.nginx.com)
 
 ### Testing
