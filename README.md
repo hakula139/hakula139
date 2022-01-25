@@ -16,10 +16,7 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [x] **CareeCuz**, 一个匿名的校招求职交流平台 @ Fudan U
-    - [x] [**careecuz-frontend**](https://github.com/hakula139/careecuz-frontend), the frontend of CareeCuz, built with Vue 3
-    - [x] [**careecuz-backend**](https://github.com/hakula139/careecuz-backend), the backend of CareeCuz, built with Node.js
-    - Time spent: **131 h**
+  - [ ] [**hakula.xyz**](https://github.com/hakula139/hakula.xyz), my personal website, rebuilt with Hugo
 
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
