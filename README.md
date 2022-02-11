@@ -16,7 +16,12 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
+  - [ ] [**Solarave**](https://github.com/hakula139/Solarave), yet another BMS player, made with Unity
   - [ ] [**hakula.xyz**](https://github.com/hakula139/hakula.xyz), my personal website, rebuilt with Hugo
+
+- 🌱&ensp;I'm currently learning:
+  - **Unity**
+  - **C#**
 
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
