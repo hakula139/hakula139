@@ -22,6 +22,9 @@
 - 🌱&ensp;I'm currently learning:
   - **Unity**
   - **C#**
+  - **Digital Signal Processing** @ Fudan U
+  - **Information Security** @ Fudan U
+  - **Information Theory** @ Fudan U
 
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
@@ -53,7 +56,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50" />](https://golang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_systemverilog.svg" alt="systemverilog" width="50" height="50" />](https://en.wikipedia.org/wiki/SystemVerilog)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="50" height="50" />](https://www.haskell.org)
 
 ### Frontend Development
 
