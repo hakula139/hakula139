@@ -26,6 +26,9 @@
   - **Information Security** @ Fudan U
   - **Information Theory** @ Fudan U
 
+- 📚&ensp;I'm currently reading:
+  - [ ] **_Coding and Information Theory_**
+
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
 - ✏️&ensp;I regularly (?) post articles on **[HAKULA†CHANNEL](https://hakula.xyz)**
