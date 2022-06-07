@@ -16,13 +16,9 @@
 ## About me
 
 - 👨‍💻&ensp;I'm currently working on:
-  - [ ] [**naive-speech-recognizer**](https://github.com/hakula139/naive-speech-recognizer), a coursework project of Digital Signal Processing @ Fudan U, spring 2022
-  - [x] [**Solarave**](https://github.com/hakula139/Solarave), yet another BMS player, made with Unity
   - [ ] [**hakula.xyz**](https://github.com/hakula139/hakula.xyz), my personal website, rebuilt with Hugo
-
-- 🌱&ensp;I'm currently learning:
-  - **Digital Signal Processing** @ Fudan U
-  - **Information Security** @ Fudan U
+  - [x] [**naive-speech-recognizer**](https://github.com/hakula139/naive-speech-recognizer), a coursework project of Digital Signal Processing @ Fudan U, spring 2022
+  - [x] [**Solarave**](https://github.com/hakula139/Solarave), yet another BMS player, made with Unity
 
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
