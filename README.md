@@ -74,6 +74,10 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket-io" width="50" height="50" />](https://socket.io)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" />](https://www.nginx.com)
 
+### Game Development
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="50" height="50" />](https://unity.com)
+
 ### Testing
 
 [<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50" />](https://jestjs.io)
