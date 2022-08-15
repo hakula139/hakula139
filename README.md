@@ -49,6 +49,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />](https://www.typescriptlang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />](https://www.javascript.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />](https://www.python.org)
+[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_protobuf.svg" alt="protobuf" width="50" height="50" />](https://developers.google.com/protocol-buffers)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50" />](https://golang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" />](https://docs.microsoft.com/en-us/dotnet/csharp)
@@ -62,7 +63,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" />](https://sass-lang.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" />](https://html.spec.whatwg.org/multipage)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" />](https://www.w3.org/Style/CSS)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="50" height="50" />](https://webpack.js.org)
 
 ### Backend Development
 
@@ -90,7 +90,7 @@
 
 ### Other
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50" />](https://ubuntu.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="50" height="50" />](https://www.debian.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />](https://code.visualstudio.com)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />](https://git-scm.com)
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />](https://postman.com)
