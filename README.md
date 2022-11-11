@@ -17,10 +17,6 @@
 
 - 👨‍💻&ensp;I'm currently working on:
   - [ ] [**hakula.xyz**](https://github.com/hakula139/hakula.xyz), my personal website, rebuilt with Hugo
-  - [x] [**Solarave**](https://github.com/hakula139/Solarave), yet another BMS player, made with Unity
-
-- 🌱&ensp;I'm currently learning:
-  - **Unreal Engine 5**
 
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub](https://github.com/hakula139?tab=repositories)**
 
