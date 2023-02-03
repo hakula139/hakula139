@@ -15,9 +15,6 @@
 
 ## About me
 
-- 👨‍💻&ensp;I'm currently working on:
-  - [ ] **[twikoo]-mod**, a simple, safe, free comment system, refactored by Hakula.
-
 - 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub][github]**
 
 - ✏️&ensp;I regularly (?) post articles on **[HAKULA†CHANNEL][hakula.xyz]**
@@ -35,8 +32,8 @@
 
 <div align="center">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=hakula139&theme=tokyonight&hide_border=true&show_icons=true&disable_animations=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="480" />](https://github.com/anuraghazra/github-readme-stats)  
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hakula&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on&cache_seconds=1800" alt="Wakatime Stats" width="480" />](https://wakatime.com/@Hakula)  
+[<img src="https://github-readme-stats.vercel.app/api?username=hakula139&theme=dark&hide_border=true&show_icons=true&disable_animations=true&count_private=true" alt="GitHub Stats" width="480" />](https://github.com/anuraghazra/github-readme-stats)  
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hakula&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Wakatime Stats" width="480" />](https://wakatime.com/@Hakula)  
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakula139&theme=dark&hide_border=true" alt="Streak Stats" width="480" />](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
 </div>
