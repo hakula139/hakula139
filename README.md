@@ -23,7 +23,6 @@
 
 - 💼&ensp;Know more about my experiences on **[Hakula (Hongyi) Chen · LinkedIn][linkedin]**
 
-[twikoo]: https://github.com/imaegoo/twikoo
 [github]: https://github.com/hakula139?tab=repositories
 [hakula.xyz]: https://hakula.xyz
 [linkedin]: https://www.linkedin.com/in/hakula
@@ -33,7 +32,7 @@
 <div align="center">
 
 [<img src="https://github-readme-stats.vercel.app/api?username=hakula139&theme=dark&hide_border=true&show_icons=true&disable_animations=true&count_private=true" alt="GitHub Stats" width="480" />](https://github.com/anuraghazra/github-readme-stats)  
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hakula&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Wakatime Stats" width="480" />](https://wakatime.com/@Hakula)  
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hakula&range=last_7_days&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Wakatime Stats" width="480" />](https://wakatime.com/@Hakula)  
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakula139&theme=dark&hide_border=true" alt="Streak Stats" width="480" />](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
 </div>
