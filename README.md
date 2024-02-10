@@ -40,37 +40,22 @@
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />](https://www.cplusplus.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />](https://www.iso.org/standard/74528.html)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />](https://golang.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />](https://www.typescriptlang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />](https://www.javascript.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />](https://golang.org)
-[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_protobuf.svg" alt="Protobuf" width="50" height="50" />](https://developers.google.com/protocol-buffers)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />](https://www.java.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />](https://docs.microsoft.com/en-us/dotnet/csharp)
 [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_systemverilog.svg" alt="SystemVerilog" width="50" height="50" />](https://ieeexplore.ieee.org/document/8299595)
 
-### Frontend Development
+### Skills
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="50" height="50" />](https://vuejs.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />](https://tailwindcss.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" />](https://sass-lang.com)
-
-### Backend Development
-
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />](https://nodejs.org)
-[<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50" />](https://flask.palletsprojects.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />](https://www.mysql.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />](https://www.mongodb.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" />](https://redis.io)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="50" height="50" />](https://socket.io)
-
-### Miscellaneous
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50" />](https://www.debian.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="CentOS" width="50" height="50" />](https://www.centos.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />](https://code.visualstudio.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50" />](https://unity.com)
-[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />](https://pytorch.org)
 [<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="50" height="50" />](https://www.elastic.co)
 [<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50" />](https://prometheus.io)
-[<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50" />](https://grafana.com)
+[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />](https://pytorch.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50" />](https://unity.com)
