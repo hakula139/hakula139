@@ -4,8 +4,8 @@
 
 # Hi 👋, I'm Hakula Chen
 
-**Backend Developer @ TiMi Studio Group, Tencent**  
-**BS, Computer Science (Honors Program) @ Fudan U**  
+**DevOps @ JQ Investments**  
+**BS, Computer Science (Honors) @ Fudan U**  
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
 
