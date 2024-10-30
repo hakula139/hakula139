@@ -2,10 +2,11 @@
 
 <div align="center">
 
-# Hi 👋, I'm Hakula Chen
+# Hi, I'm Hakula Chen :wave:
 
-**DevOps @ JQ Investments**  
-**BS, Computer Science (Honors) @ Fudan U**  
+**DevOps Engineer @ JQ Investments**  
+*(Former) Backend Developer @ TiMi, Tencent*  
+**BSc, Computer Science (Honors) @ Fudan U**  
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
 
@@ -15,17 +16,16 @@
 
 ## About me
 
-- 🔮&ensp;Most of my projects are available on **[hakula139 / Repositories · GitHub][github]**
+- :crystal_ball: Most of my projects are available on **[GitHub]**
+- :pencil2: I used to post articles on **[HAKULA†CHANNEL][hakula.xyz]**
+- :briefcase: Know more about my experiences on **[LinkedIn]**
+- :email: How to reach me:
+  - Wechat: **hakula_1234567**
+  - Email: **<i@hakula.xyz>**
 
-- ✏️&ensp;I regularly (?) post articles on **[HAKULA†CHANNEL][hakula.xyz]**
-
-- 📬&ensp;How to reach me: **<i@hakula.xyz>**
-
-- 💼&ensp;Know more about my experiences on **[Hakula (Hongyi) Chen · LinkedIn][linkedin]**
-
-[github]: https://github.com/hakula139?tab=repositories
+[GitHub]: https://github.com/hakula139?tab=repositories
 [hakula.xyz]: https://hakula.xyz
-[linkedin]: https://www.linkedin.com/in/hakula
+[LinkedIn]: https://www.linkedin.com/in/hakula
 
 ## Stats
 
@@ -39,14 +39,10 @@
 ### Programming Languages
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />](https://www.cplusplus.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />](https://www.iso.org/standard/74528.html)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" />](https://golang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />](https://www.typescriptlang.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />](https://www.javascript.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />](https://www.java.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />](https://docs.microsoft.com/en-us/dotnet/csharp)
-[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_systemverilog.svg" alt="SystemVerilog" width="50" height="50" />](https://ieeexplore.ieee.org/document/8299595)
 
 ### Skills
 
@@ -55,6 +51,8 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />](https://www.mysql.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />](https://www.mongodb.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" />](https://redis.io)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />](https://www.docker.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="50" height="50" />](https://kubernetes.io)
 [<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="50" height="50" />](https://www.elastic.co)
 [<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50" />](https://prometheus.io)
 [<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />](https://pytorch.org)
