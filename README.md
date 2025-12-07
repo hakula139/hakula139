@@ -10,7 +10,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
 
-[![hakula139](https://github-profile-trophy.vercel.app/?username=hakula139&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
+[![hakula139](https://github-profile-trophy-hakula.vercel.app/?username=hakula139&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
