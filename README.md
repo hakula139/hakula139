@@ -14,7 +14,7 @@
 
 </div>
 
-## About me
+## About Me
 
 - :crystal_ball: Most of my projects are available on **[GitHub]**
 - :pencil2: I used to post articles on **[HAKULA†CHANNEL][hakula.xyz]**
@@ -36,7 +36,7 @@
 
 </div>
 
-### Programming Languages
+## Programming Languages
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />](https://www.cplusplus.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />](https://www.python.org)
@@ -44,7 +44,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />](https://www.typescriptlang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />](https://www.java.com)
 
-### Skills
+## Skills
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="50" height="50" />](https://vuejs.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" />](https://tailwindcss.com)
