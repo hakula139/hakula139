@@ -29,19 +29,19 @@
 
 <div align="center">
 
-[<img src="https://github-readme-stats-hakula.vercel.app/api?username=hakula139&theme=dark&hide_border=true&show_icons=true&disable_animations=true&count_private=true" alt="GitHub Stats" width="480" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats-hakula.vercel.app/api?username=hakula139&theme=dark&hide_border=true&show_icons=true&disable_animations=true&count_private=true" alt="GitHub Stats" width="480" />](https://github.com/anuraghazra/github-readme-stats)  
 [<img src="https://github-readme-stats-hakula.vercel.app/api/wakatime?username=Hakula&range=last_7_days&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Wakatime Stats" width="480" />](https://wakatime.com/@Hakula)
 
 </div>
 
 ## Programming Languages
 
-![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,ts,go,java&theme=dark)
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,ts,rust,go,java&titles=true)
 
 ## Skills
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=vue,tailwindcss,nodejs,mysql,duckdb,mongodb,redis,docker,podman,kubernetes,elasticsearch,prometheus,grafana,pytorch,unity&theme=dark)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=vue,tailwindcss,nodejs,mysql,duckdb,mongodb,redis,docker,podman,kubernetes,elasticsearch,prometheus,grafana,pytorch,unity&titles=true)
 
 ## Development Environment
 
-![Development Environment](https://go-skill-icons.vercel.app/api/icons?i=cursor,claude,nixos,ubuntu,apple&theme=dark)
+![Development Environment](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,nixos,apple&titles=true)
