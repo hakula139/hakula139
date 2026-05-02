@@ -36,12 +36,12 @@
 
 ## Programming Languages
 
-![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,ts,rust,go,java&titles=true)
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,ts,rust,go,java&theme=dark&titles=true)
 
 ## Skills
 
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=vue,tailwindcss,nodejs,mysql,duckdb,mongodb,redis,docker,podman,kubernetes,elasticsearch,prometheus,grafana,pytorch,unity&titles=true)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=vue,tailwindcss,nodejs,mysql,duckdb,mongodb,redis,docker,podman,kubernetes,elasticsearch,prometheus,grafana,pytorch,unity&theme=dark&titles=true)
 
 ## Development Environment
 
-![Development Environment](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,nixos,apple&titles=true)
+![Development Environment](https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,nixos,apple&theme=dark&titles=true)
