@@ -24,22 +24,22 @@
 ### Programming Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,ts,rust,go,java&amp;theme=dark&amp;titles=true" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,ts,rust,go,java&amp;theme=light&amp;titles=true" alt="C++, Python, TypeScript, Rust, Go, Java" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Cpython%2Cts%2Crust%2Cgo%2Cjava&amp;theme=dark&amp;titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Cpython%2Cts%2Crust%2Cgo%2Cjava&amp;theme=light&amp;titles=true" alt="C++, Python, TypeScript, Rust, Go, Java" />
 </picture>
 
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=vue,tailwindcss,nodejs,mysql,duckdb,mongodb,redis,docker,podman,kubernetes,elasticsearch,prometheus,grafana,pytorch&amp;theme=dark&amp;titles=true" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,tailwindcss,nodejs,mysql,duckdb,mongodb,redis,docker,podman,kubernetes,elasticsearch,prometheus,grafana,pytorch&amp;theme=light&amp;titles=true" alt="Vue, Tailwind CSS, Node.js, MySQL, DuckDB, MongoDB, Redis, Docker, Podman, Kubernetes, Elasticsearch, Prometheus, Grafana, PyTorch" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=vue%2Ctailwindcss%2Cnodejs%2Cmysql%2Cduckdb%2Cmongodb%2Credis%2Cdocker%2Cpodman%2Ckubernetes%2Celasticsearch%2Cprometheus%2Cgrafana%2Cpytorch&amp;theme=dark&amp;titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vue%2Ctailwindcss%2Cnodejs%2Cmysql%2Cduckdb%2Cmongodb%2Credis%2Cdocker%2Cpodman%2Ckubernetes%2Celasticsearch%2Cprometheus%2Cgrafana%2Cpytorch&amp;theme=light&amp;titles=true" alt="Vue, Tailwind CSS, Node.js, MySQL, DuckDB, MongoDB, Redis, Docker, Podman, Kubernetes, Elasticsearch, Prometheus, Grafana, PyTorch" />
 </picture>
 
 ### Development Environment
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,cursor,nixos,apple&amp;theme=dark&amp;titles=true" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,cursor,nixos,apple&amp;theme=light&amp;titles=true" alt="Claude, GPT, Cursor, NixOS, macOS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=light&amp;titles=true" alt="Claude, GPT, Cursor, NixOS, macOS" />
 </picture>
 
 Shell: [Zsh](https://zsh.sourceforge.io) + [Starship](https://starship.rs).
