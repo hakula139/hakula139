@@ -12,7 +12,8 @@
 
 ## About Me
 
-- :briefcase: At **[JQ Investments]** since May 2024. Former Backend Developer @ **TiMi, Tencent** (2021–2024).
+- :briefcase: Core Engineer @ **[JQ Investments]** since May 2024.
+- :briefcase: Former Backend Developer @ **TiMi, Tencent** (2021–2024).
 - :mortar_board: **BSc, Computer Science (Honors), Fudan University** (2018–2022).
 - :pencil2: I write articles on **[HAKULA†CHANNEL][Blog]**. Learn more [about me].
 - :email: Reach me via **[Email]** or **WeChat** (`hakula_1234567`).
@@ -36,8 +37,8 @@
 ### Development Environment
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=light&amp;titles=true" alt="Claude, GPT, Cursor, Nix / NixOS, macOS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=cursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor%2Cnixos%2Capple&amp;theme=light&amp;titles=true" alt="Cursor, Nix / NixOS, macOS" />
 </picture>
 
 ## Activity
