@@ -44,6 +44,8 @@
 
 <div align="center">
 
+[![hakula139](https://github-profile-trophy-hakula.vercel.app/?username=hakula139&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/hakula139?tab=repositories">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.hakula.xyz/api?username=hakula139&amp;theme=dark&amp;hide_border=true&amp;show_icons=true&amp;disable_animations=true&amp;count_private=true" />
