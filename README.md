@@ -2,8 +2,6 @@
 
 # Hi, I'm Hakula Chen :wave:
 
-**Core Engineer @ [JQ Investments] · Shanghai**
-
 [Blog] · [LinkedIn] · [Email]
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
@@ -12,7 +10,8 @@
 
 ## About Me
 
-- :briefcase: Core Engineer at **[JQ Investments]** since May 2024. Previously a Backend Developer at **TiMi, Tencent** (2021–2024).
+- :briefcase: Core Engineer @ **[JQ Investments]** since May 2024.
+- :briefcase: Former Backend Developer @ **TiMi, Tencent** (2021–2024).
 - :mortar_board: **BSc, Computer Science (Honors), Fudan University** (2018–2022).
 - :pencil2: I write articles on **[HAKULA†CHANNEL][Blog]**. Learn more [about me].
 - :email: Reach me via **[Email]** or **WeChat** (`hakula_1234567`).
