@@ -31,8 +31,8 @@
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=vue%2Ctailwindcss%2Cnodejs%2Cmysql%2Cduckdb%2Cmongodb%2Credis%2Cdocker%2Cpodman%2Ckubernetes%2Celasticsearch%2Cprometheus%2Cgrafana%2Cpytorch&amp;theme=dark&amp;titles=true" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vue%2Ctailwindcss%2Cnodejs%2Cmysql%2Cduckdb%2Cmongodb%2Credis%2Cdocker%2Cpodman%2Ckubernetes%2Celasticsearch%2Cprometheus%2Cgrafana%2Cpytorch&amp;theme=light&amp;titles=true" alt="Vue, Tailwind CSS, Node.js, MySQL, DuckDB, MongoDB, Redis, Docker, Podman, Kubernetes, Elasticsearch, Prometheus, Grafana, PyTorch" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=vue%2Ctailwindcss%2Cnodejs%2Cmysql%2Cduckdb%2Cmongodb%2Credis%2Cdocker%2Cpodman%2Ckubernetes%2Celasticsearch%2Cprometheus%2Cgrafana%2Cpytorch&amp;perline=7&amp;theme=dark&amp;titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vue%2Ctailwindcss%2Cnodejs%2Cmysql%2Cduckdb%2Cmongodb%2Credis%2Cdocker%2Cpodman%2Ckubernetes%2Celasticsearch%2Cprometheus%2Cgrafana%2Cpytorch&amp;perline=7&amp;theme=light&amp;titles=true" alt="Vue, Tailwind CSS, Node.js, MySQL, DuckDB, MongoDB, Redis, Docker, Podman, Kubernetes, Elasticsearch, Prometheus, Grafana, PyTorch" />
 </picture>
 
 ### Development Environment
