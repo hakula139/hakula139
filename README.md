@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-
 <div align="center">
 
 # Hi, I'm Hakula Chen :wave:
