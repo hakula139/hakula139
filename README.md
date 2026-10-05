@@ -6,7 +6,7 @@
 
 **Core Engineer @ [JQ Investments][jq] · Shanghai**
 
-[Blog][hakula.xyz] · [About Me][about-me] · [LinkedIn] · [Email][email]
+[Blog][hakula.xyz] · [LinkedIn] · [Email][email]
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
 
