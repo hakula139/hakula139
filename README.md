@@ -35,8 +35,8 @@
 ### Development Environment
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=cursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cursor%2Cnixos%2Capple&amp;theme=light&amp;titles=true" alt="Cursor, Nix / NixOS, macOS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=light&amp;titles=true" alt="Claude, GPT, Cursor, Nix / NixOS, macOS" />
 </picture>
 
 ## Activity
