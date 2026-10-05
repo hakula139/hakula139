@@ -2,8 +2,6 @@
 
 # Hi, I'm Hakula Chen :wave:
 
-**Core Engineer @ [JQ Investments] · Shanghai**
-
 [Blog] · [LinkedIn] · [Email]
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
