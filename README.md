@@ -4,9 +4,9 @@
 
 # Hi, I'm Hakula Chen :wave:
 
-**Core Engineer @ [JQ Investments][jq] · Shanghai**
+**Core Engineer @ [JQ Investments] · Shanghai**
 
-[Blog][hakula.xyz] · [LinkedIn] · [Email][email]
+[Blog] · [LinkedIn] · [Email]
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
 
@@ -14,10 +14,10 @@
 
 ## About Me
 
-- :briefcase: Core Engineer at **[JQ Investments][jq]** since May 2024. Previously a Backend Developer at **TiMi, Tencent** (2021–2024).
+- :briefcase: Core Engineer at **[JQ Investments]** since May 2024. Previously a Backend Developer at **TiMi, Tencent** (2021–2024).
 - :mortar_board: **BSc, Computer Science (Honors), Fudan University** (2018–2022).
-- :pencil2: I write articles on **[HAKULA†CHANNEL][hakula.xyz]**. See my **[about-me page][about-me]** for more background and interests.
-- :email: Reach me via **[Email][email]** or **WeChat** (`hakula_1234567`).
+- :pencil2: I write articles on **[HAKULA†CHANNEL][Blog]**. See my **[about-me page][About Me]** for more background and interests.
+- :email: Reach me via **[Email]** or **WeChat** (`hakula_1234567`).
 
 ## Technologies
 
@@ -62,8 +62,8 @@
 
 </div>
 
-[jq]: https://www.jqinvestments.com
-[hakula.xyz]: https://hakula.xyz
-[about-me]: https://hakula.xyz/about-me/
+[JQ Investments]: https://www.jqinvestments.com
+[Blog]: https://hakula.xyz
+[About Me]: https://hakula.xyz/about-me/
 [LinkedIn]: https://www.linkedin.com/in/hakula
-[email]: mailto:i@hakula.xyz
+[Email]: mailto:i@hakula.xyz
