@@ -16,10 +16,7 @@
 
 ## Selected projects
 
-- **[oxide-code]**: A coding agent built from scratch in Rust, inspired by Claude Code.
-
-  - Steer ongoing work with queued follow-ups, editable pending prompts, and interruptible turns.
-  - A live task list preserves progress across context compaction and resumed sessions.
+- **[oxide-code]**: Yet another coding agent, written in Rust.
 
 - **[HAKULA†CHANNEL][Blog]**: My personal blog, built from scratch with my own static site generator and theme.
 
