@@ -11,7 +11,7 @@
 - :briefcase: Core Engineer @ **[JQ Investments]** since May 2024.
 - :briefcase: Former Backend Developer @ **TiMi, Tencent** (2021–2024).
 - :mortar_board: **BSc, Computer Science (Honors), Fudan University** (2018–2022).
-- :pencil2: I write at **[HAKULA†CHANNEL][Blog]**. [More about me][about me].
+- :pencil2: I write articles on **[HAKULA†CHANNEL][Blog]**. You can learn more about my background and interests on my [about page][about me].
 - :email: Reach me via **[Email]** or **WeChat** (`hakula_1234567`).
 
 ## Selected projects
