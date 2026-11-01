@@ -23,13 +23,13 @@
 
 - **[HAKULA†CHANNEL][Blog]**: My personal blog, built from scratch with my own static site generator and theme.
 
-  - **[kiln]**: A Rust static site generator with CJK-friendly Markdown, math, diagrams, Pagefind search, and live preview.
-  - **[IgnIt]**: A custom theme with responsive layouts, light and dark modes, image galleries, and Twikoo comments.
+  - **[kiln]**: A Rust static site generator for CJK technical writing, with nested template-backed content components and page bundles that keep Markdown, media, and page-specific styles together.
+  - **[IgnIt]**: A LoveIt-inspired glassmorphism theme with configurable image backgrounds, layered frosted-glass panels, and article cards that zoom and reveal details on hover.
 
-- **[nixos-config]**: My Nix configuration and complete agent harness setup.
+- **[nixos-config]**: My complete agent harness, showing how I turn coding agents into a repeatable development workflow.
 
-  - NixOS, WSL, macOS, and development containers.
-  - Shared agent roles, skills, permissions, hooks, MCP integrations, and worktree orchestration.
+  - Agents implement in isolated worktrees, review each other's changes, and hand off verified results.
+  - Shared workflows carry the same operating rules across Claude Code, Codex, and other assistants.
 
 ## Technologies
 
