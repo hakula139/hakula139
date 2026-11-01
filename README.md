@@ -33,31 +33,23 @@
 
 ## Technologies
 
-### Programming Languages
-
 <div align="center">
+
+### Programming Languages
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Crust%2Cpython%2Cts%2Cgo&amp;theme=dark&amp;titles=true" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Crust%2Cpython%2Cts%2Cgo&amp;theme=light&amp;titles=true" alt="C++, Rust, Python, TypeScript, Go" width="270" />
 </picture>
 
-</div>
-
 ### Stack
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=vue%2Ctailwindcss%2Cnodejs%2Cmysql%2Cduckdb%2Cmongodb%2Credis%2Celasticsearch%2Ccmake%2Cdocker%2Cpodman%2Ckubernetes%2Cnginx%2Ccloudflare%2Cgithub%2Cgitlab%2Cprometheus%2Cgrafana&amp;perline=9&amp;theme=dark&amp;titles=true" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vue%2Ctailwindcss%2Cnodejs%2Cmysql%2Cduckdb%2Cmongodb%2Credis%2Celasticsearch%2Ccmake%2Cdocker%2Cpodman%2Ckubernetes%2Cnginx%2Ccloudflare%2Cgithub%2Cgitlab%2Cprometheus%2Cgrafana&amp;perline=9&amp;theme=light&amp;titles=true" alt="Vue, Tailwind CSS, Node.js, MySQL, DuckDB, MongoDB, Redis, Elasticsearch, CMake, Docker, Podman, Kubernetes, Nginx, Cloudflare, GitHub, GitLab CI/CD, Prometheus, Grafana" width="490" />
 </picture>
 
-</div>
-
 ### Development Environment
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
