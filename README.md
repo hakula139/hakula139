@@ -38,8 +38,8 @@
 ### Programming Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Crust%2Cpython%2Cts%2Cgo&amp;theme=dark&amp;titles=true" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Crust%2Cpython%2Cts%2Cgo&amp;theme=light&amp;titles=true" alt="C++, Rust, Python, TypeScript, Go" width="270" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Crust%2Cpython%2Cts%2Cgo%2Cnix%2Cbash&amp;theme=dark&amp;titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp%2Crust%2Cpython%2Cts%2Cgo%2Cnix%2Cbash&amp;theme=light&amp;titles=true" alt="C++, Rust, Python, TypeScript, Go, Nix, Bash" width="380" />
 </picture>
 
 ### Stack
