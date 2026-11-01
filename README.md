@@ -10,7 +10,7 @@
 
 - :briefcase: Core Engineer @ **[JQ Investments]** since May 2024.
 - :briefcase: Former Backend Developer @ **TiMi, Tencent** (2021–2024).
-- :mortar_board: **BSc, Computer Science (Honors), Fudan University** (2018–2022).
+- :mortar_board: **BSc, Computer Science ([Honors]), Fudan University** (2018–2022).
 - :memo: I write articles on **[HAKULA†CHANNEL][Blog]**. Learn more about my background and interests on my [about page][about me].
 - :speech_balloon: Reach me via **[Email]**, **[Telegram]**, or **WeChat** (`hakula_1234567`).
 
@@ -94,6 +94,7 @@
 </div>
 
 [JQ Investments]: https://www.jqinvestments.com
+[Honors]: https://cs.fudan.edu.cn/15/97/c24752a267671/page.htm
 [Blog]: https://hakula.xyz
 [about me]: https://hakula.xyz/about-me/
 [LinkedIn]: https://www.linkedin.com/in/hakula
