@@ -1,6 +1,6 @@
-# Hi, I'm Hakula Chen :wave:
-
 <div align="center">
+
+# Hi, I'm Hakula Chen :wave:
 
 [Blog] · [LinkedIn] · [Email]
 
