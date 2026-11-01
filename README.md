@@ -20,14 +20,10 @@
 
 - **[HAKULA†CHANNEL][Blog]**: My personal blog, built from scratch with my own static site generator and theme.
 
-  - **[kiln]**: A Rust static site generator for CJK technical writing, with nested template-backed content components and page bundles that keep Markdown, media, and page-specific styles together.
-  - **[IgnIt]**: A LoveIt-inspired glassmorphism theme with configurable image backgrounds, layered frosted-glass panels, and article cards that zoom and reveal details on hover.
+  - **[kiln]**: A static site generator written in Rust.
+  - **[IgnIt]**: A glassmorphism theme for kiln, inspired by Hugo LoveIt.
 
-- **[nixos-config]**: The Nix environment and agent harness used to build [kiln] and [oxide-code] with autonomous agents.
-
-  - **Quality controls**: Isolated implementation, independent review, and regression checks, from delegation to verified handoff.
-  - **Consistent workflows**: One shared source generates native assistant configurations, carrying improvements across tools.
-  - **Reproducible environments**: Nix packages the toolchain and harness together, making the setup inspectable, rebuildable, and reusable.
+- **[nixos-config]**: The [Nix] environment and agent harness used to build [kiln] and [oxide-code] with autonomous agents.
 
 ## Technologies
 
@@ -102,3 +98,4 @@
 [kiln]: https://github.com/hakula139/kiln
 [IgnIt]: https://github.com/hakula139/IgnIt
 [nixos-config]: https://github.com/hakula139/nixos-config
+[Nix]: https://nixos.org/
