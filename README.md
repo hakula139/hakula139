@@ -12,10 +12,25 @@
 
 ## Selected projects
 
-- **[oxide-code]**: A Rust terminal coding agent with a streaming TUI, resumable sessions, and configurable permissions. Supports interactive and headless workflows, with context compaction and live model and reasoning effort controls.
-- **[kiln]**: A Rust static site generator for technical writing, with CJK-friendly Markdown, math and diagrams, Pagefind search, and reusable content components. It powers [hakula.xyz][Blog] and supports live preview and custom themes.
-- **[IgnIt]**: A kiln theme inspired by Hugo LoveIt, with responsive layouts, light and dark modes, and integrated search. Includes KaTeX, Mermaid diagrams, image galleries, and Twikoo comments.
-- **[nixos-config]**: My Nix flake for NixOS servers, WSL, macOS, and development containers. It also contains my full agent harness setup, covering shared roles and prompts, permissions, hooks, skills, MCP integrations, and orchestration across agents in separate worktrees.
+- **[oxide-code]**: A terminal coding agent written in Rust.
+
+  - Streaming TUI, resumable sessions, and configurable permissions.
+  - Interactive and headless workflows, context compaction, and live model controls.
+
+- **[kiln]**: A static site generator written in Rust, powering [hakula.xyz][Blog].
+
+  - CJK-friendly Markdown, math, diagrams, and Pagefind search.
+  - Reusable content components, custom themes, and live preview.
+
+- **[IgnIt]**: A kiln theme inspired by Hugo LoveIt.
+
+  - Responsive layouts, light and dark modes, and integrated search.
+  - KaTeX, Mermaid, image galleries, and Twikoo comments.
+
+- **[nixos-config]**: My Nix configuration and complete agent harness setup.
+
+  - NixOS, WSL, macOS, and development containers.
+  - Shared agent roles, skills, permissions, hooks, MCP integrations, and worktree orchestration.
 
 ## Technologies
 
