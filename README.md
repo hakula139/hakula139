@@ -21,15 +21,10 @@
   - Use Claude Code credentials or Anthropic-compatible gateways with custom headers.
   - Layered TOML and Home Manager configuration, with project rules limited to tightening permissions.
 
-- **[kiln]**: A static site generator written in Rust, powering [hakula.xyz][Blog].
+- **[HAKULA†CHANNEL][Blog]**: My personal blog, built from scratch with my own static site generator and theme.
 
-  - CJK-friendly Markdown, math, diagrams, and Pagefind search.
-  - Reusable content components, custom themes, and live preview.
-
-- **[IgnIt]**: A kiln theme inspired by Hugo LoveIt.
-
-  - Responsive layouts, light and dark modes, and integrated search.
-  - KaTeX, Mermaid, image galleries, and Twikoo comments.
+  - **[kiln]**: A Rust static site generator with CJK-friendly Markdown, math, diagrams, Pagefind search, and live preview.
+  - **[IgnIt]**: A custom theme with responsive layouts, light and dark modes, image galleries, and Twikoo comments.
 
 - **[nixos-config]**: My Nix configuration and complete agent harness setup.
 
