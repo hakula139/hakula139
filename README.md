@@ -1,8 +1,12 @@
+<div align="center">
+
 # Hi, I'm Hakula Chen :wave:
 
 [Blog] · [LinkedIn] · [Email]
 
 [![wakatime](https://wakatime.com/badge/user/f4a35a1f-0e29-4093-a647-e66aad164737.svg)](https://wakatime.com/@f4a35a1f-0e29-4093-a647-e66aad164737)
+
+</div>
 
 - :briefcase: Core Engineer @ **[JQ Investments]** since May 2024.
 - :briefcase: Former Backend Developer @ **TiMi, Tencent** (2021–2024).
@@ -12,10 +16,10 @@
 
 ## Selected projects
 
-- **[oxide-code]**: A terminal coding agent written in Rust.
+- **[oxide-code]**: A Rust terminal coding agent for Claude.
 
-  - Streaming TUI, resumable sessions, and configurable permissions.
-  - Interactive and headless workflows, context compaction, and live model controls.
+  - Use Claude Code credentials or Anthropic-compatible gateways with custom headers.
+  - Layered TOML and Home Manager configuration, with project rules limited to tightening permissions.
 
 - **[kiln]**: A static site generator written in Rust, powering [hakula.xyz][Blog].
 
@@ -31,6 +35,8 @@
 
   - NixOS, WSL, macOS, and development containers.
   - Shared agent roles, skills, permissions, hooks, MCP integrations, and worktree orchestration.
+
+<div align="center">
 
 ## Technologies
 
@@ -54,6 +60,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=light&amp;titles=true" alt="Claude, GPT, Cursor, Nix / NixOS, macOS" width="270" />
 </picture>
+
+</div>
+
+<div align="center">
 
 ## Activity
 
@@ -85,6 +95,8 @@
   </picture>
 </a>
 </p>
+
+</div>
 
 [JQ Investments]: https://www.jqinvestments.com
 [Blog]: https://hakula.xyz
