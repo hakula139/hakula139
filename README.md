@@ -12,7 +12,7 @@
 - :briefcase: Former Backend Developer @ **TiMi, Tencent** (2021–2024).
 - :mortar_board: **BSc, Computer Science (Honors), Fudan University** (2018–2022).
 - :pencil2: I write articles on **[HAKULA†CHANNEL][Blog]**. Learn more about my background and interests on my [about page][about me].
-- :email: Reach me via **[Email]** or **WeChat** (`hakula_1234567`).
+- :email: Reach me via **[Email]**, **[Telegram]**, or **WeChat** (`hakula_1234567`).
 
 ## Selected projects
 
@@ -103,6 +103,7 @@
 [about me]: https://hakula.xyz/about-me/
 [LinkedIn]: https://www.linkedin.com/in/hakula
 [Email]: mailto:i@hakula.xyz
+[Telegram]: https://t.me/hakulaTG
 [oxide-code]: https://github.com/hakula139/oxide-code
 [kiln]: https://github.com/hakula139/kiln
 [IgnIt]: https://github.com/hakula139/IgnIt
