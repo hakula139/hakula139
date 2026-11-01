@@ -26,10 +26,11 @@
   - **[kiln]**: A Rust static site generator for CJK technical writing, with nested template-backed content components and page bundles that keep Markdown, media, and page-specific styles together.
   - **[IgnIt]**: A LoveIt-inspired glassmorphism theme with configurable image backgrounds, layered frosted-glass panels, and article cards that zoom and reveal details on hover.
 
-- **[nixos-config]**: My complete agent harness, showing how I turn coding agents into a repeatable development workflow.
+- **[nixos-config]**: The Nix environment and agent harness used to build [kiln] and [oxide-code] with autonomous agents.
 
-  - Agents implement in isolated worktrees, review each other's changes, and hand off verified results.
-  - Shared workflows carry the same operating rules across Claude Code, Codex, and other assistants.
+  - **Quality controls**: Isolated implementation, independent review, and regression checks, from delegation to verified handoff.
+  - **Consistent workflows**: One shared source generates native assistant configurations, carrying improvements across tools.
+  - **Reproducible environments**: Nix packages the toolchain and harness together, making the setup inspectable, rebuildable, and reusable.
 
 ## Technologies
 
