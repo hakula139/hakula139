@@ -16,10 +16,10 @@
 
 ## Selected projects
 
-- **[oxide-code]**: A Rust terminal coding agent for Claude.
+- **[oxide-code]**: A coding agent built from scratch in Rust, inspired by Claude Code.
 
-  - Use Claude Code credentials or Anthropic-compatible gateways with custom headers.
-  - Layered TOML and Home Manager configuration, with project rules limited to tightening permissions.
+  - Steer ongoing work with queued follow-ups, editable pending prompts, and interruptible turns.
+  - A live task list preserves progress across context compaction and resumed sessions.
 
 - **[HAKULA†CHANNEL][Blog]**: My personal blog, built from scratch with my own static site generator and theme.
 
