@@ -49,6 +49,8 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;row=4&amp;margin-w=12&amp;margin-h=8" />
+    <source media="(max-width: 600px)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;row=4&amp;margin-w=12&amp;margin-h=8" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=5&amp;margin-w=12&amp;margin-h=8" />
     <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=5&amp;margin-w=12&amp;margin-h=8" alt="Hakula's GitHub trophies" />
   </picture>
@@ -63,8 +65,8 @@
 </a>
 <a href="https://wakatime.com/@Hakula">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on" />
-    <img src="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Hakula's coding activity over the last seven days" width="420" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on" />
+    <img src="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;disable_animations=true&amp;layout=compact&amp;langs_count=6&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Hakula's coding activity over the last seven days" width="420" />
   </picture>
 </a>
 </p>
