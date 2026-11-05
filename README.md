@@ -23,7 +23,7 @@
   - **[kiln]**: A static site generator written in Rust.
   - **[IgnIt]**: A glassmorphism theme for kiln, inspired by Hugo LoveIt.
 
-- **[nixos-config]**: The [Nix] environment and agent harness used to build [kiln] and [oxide-code] with autonomous agents.
+- **[nixos-config]**: My [Nix] environment, including the agent harness used to build [kiln] and [oxide-code] with autonomous agents.
 
 ## Technologies
 
@@ -63,8 +63,8 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;column=5" />
-    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;column=5" alt="Hakula's GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;column=5&amp;no-frame=true&amp;no-bg=true" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;column=5&amp;no-frame=true&amp;no-bg=true" alt="Hakula's GitHub trophies" />
   </picture>
 </a>
 
