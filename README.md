@@ -23,7 +23,7 @@
   - **[kiln]**: A static site generator written in Rust.
   - **[IgnIt]**: A glassmorphism theme for kiln, inspired by Hugo LoveIt.
 
-- **[nixos-config]**: The [Nix] environment and agent harness used to build [kiln] and [oxide-code] with autonomous agents.
+- **[nixos-config]**: My [Nix] environment, including the agent harness used to build [kiln] and [oxide-code] with autonomous agents.
 
 ## Technologies
 
