@@ -63,8 +63,8 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub" />
-    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat" alt="Hakula's GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;column=5" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;column=5" alt="Hakula's GitHub trophies" />
   </picture>
 </a>
 
