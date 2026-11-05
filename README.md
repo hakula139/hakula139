@@ -63,10 +63,44 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;row=4&amp;margin-w=12&amp;margin-h=8" />
-    <source media="(max-width: 600px)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;row=4&amp;margin-w=12&amp;margin-h=8" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=5&amp;margin-w=12&amp;margin-h=8" />
-    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=5&amp;margin-w=12&amp;margin-h=8" alt="Hakula's GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=MultiLanguage&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=MultiLanguage&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's multilingual trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=LongTimeUser&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=LongTimeUser&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's long-time user trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=PullRequest&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=PullRequest&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's pull requests trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Repositories&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Repositories&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's repositories trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Commits&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Commits&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's commits trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Issues&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Issues&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's issues trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Experience&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Experience&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's experience trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Stars&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Stars&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's stars trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Followers&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Followers&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's followers trophy" width="110" height="110" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Reviews&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;title=Reviews&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=1&amp;row=1" alt="Hakula's reviews trophy" width="110" height="110" />
   </picture>
 </a>
 
