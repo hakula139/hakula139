@@ -63,10 +63,8 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;row=4&amp;margin-w=12&amp;margin-h=8" />
-    <source media="(max-width: 600px)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=3&amp;row=4&amp;margin-w=12&amp;margin-h=8" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;column=5&amp;margin-w=12&amp;margin-h=8" />
-    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;column=5&amp;margin-w=12&amp;margin-h=8" alt="Hakula's GitHub trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub" />
+    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat" alt="Hakula's GitHub trophies" />
   </picture>
 </a>
 
