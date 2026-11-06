@@ -69,14 +69,28 @@
 </a>
 
 <p>
-<a href="https://github.com/hakula139?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.hakula.xyz/api?username=hakula139&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;show_icons=true&amp;disable_animations=true&amp;count_private=true&amp;card_width=420" />
-    <img src="https://github-stats.hakula.xyz/api?username=hakula139&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;show_icons=true&amp;disable_animations=true&amp;count_private=true&amp;card_width=420" alt="Hakula's GitHub activity" width="420" /></picture></a>
-<a href="https://wakatime.com/@Hakula">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;disable_animations=true&amp;layout=compact&amp;langs_count=10&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on" />
-    <img src="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;disable_animations=true&amp;layout=compact&amp;langs_count=10&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Hakula's coding activity over the last seven days" width="420" /></picture></a>
+  <a href="https://github.com/hakula139?tab=repositories">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats.hakula.xyz/api?username=hakula139&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;show_icons=true&amp;disable_animations=true&amp;count_private=true&amp;card_width=420"
+      />
+      <img
+        src="https://github-stats.hakula.xyz/api?username=hakula139&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;show_icons=true&amp;disable_animations=true&amp;count_private=true&amp;card_width=420"
+        alt="Hakula's GitHub activity"
+        width="420"
+      /></picture></a>
+  <a href="https://wakatime.com/@Hakula">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;disable_animations=true&amp;layout=compact&amp;langs_count=10&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on"
+      />
+      <img
+        src="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;disable_animations=true&amp;layout=compact&amp;langs_count=10&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on"
+        alt="Hakula's coding activity over the last seven days"
+        width="420"
+      /></picture></a>
 </p>
 
 </div>
