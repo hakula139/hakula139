@@ -31,4 +31,5 @@ jobs:
         uses: cachix/install-nix-action@v31
 
       - name: Check generated README
+        shell: bash
         run: nix eval --raw --file readme.nix | diff -u README.md -
