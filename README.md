@@ -56,17 +56,10 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake.svg" alt="A snake eating Hakula's GitHub contribution graph" width="100%" />
-</picture>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=darkhub&amp;column=5&amp;no-frame=true&amp;no-bg=true" />
-    <img src="https://github-profile-trophy-hakula.vercel.app/?username=hakula139&amp;theme=flat&amp;column=5&amp;no-frame=true&amp;no-bg=true" alt="Hakula's GitHub trophies" />
-  </picture>
-</a>
+![A snake eating Hakula's GitHub contribution graph][Contribution snake dark]
+![A snake eating Hakula's GitHub contribution graph][Contribution snake light]
+[![Hakula's GitHub trophies][GitHub trophies dark]](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![Hakula's GitHub trophies][GitHub trophies light]](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
 [![Hakula's GitHub activity][GitHub activity dark]](https://github.com/hakula139?tab=repositories#gh-dark-mode-only)
 [![Hakula's GitHub activity][GitHub activity light]](https://github.com/hakula139?tab=repositories#gh-light-mode-only)
@@ -87,6 +80,10 @@
 [IgnIt]: https://github.com/hakula139/IgnIt
 [nixos-config]: https://github.com/hakula139/nixos-config
 [Nix]: https://nixos.org/
+[Contribution snake dark]: https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
+[Contribution snake light]: https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake.svg#gh-light-mode-only
+[GitHub trophies dark]: https://github-profile-trophy-hakula.vercel.app/?username=hakula139&theme=darkhub&column=5&no-frame=true&no-bg=true#gh-dark-mode-only
+[GitHub trophies light]: https://github-profile-trophy-hakula.vercel.app/?username=hakula139&theme=flat&column=5&no-frame=true&no-bg=true#gh-light-mode-only
 [GitHub activity dark]: https://github-stats.hakula.xyz/api?username=hakula139&theme=github_dark&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-dark-mode-only
 [GitHub activity light]: https://github-stats.hakula.xyz/api?username=hakula139&theme=default&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-light-mode-only
 [WakaTime activity dark]: https://github-stats.hakula.xyz/api/wakatime?username=Hakula&range=last_7_days&theme=github_dark&bg_color=00000000&hide_border=true&disable_animations=true&layout=compact&langs_count=10&card_width=420&custom_title=This%20week%20I%20spent%20my%20time%20on#gh-dark-mode-only
