@@ -1,0 +1,34 @@
+name: Check README
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - README.md.in
+      - readme.nix
+      - .github/workflows/readme.yml
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - README.md.in
+      - readme.nix
+      - .github/workflows/readme.yml
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Install Nix
+        uses: cachix/install-nix-action@v31
+
+      - name: Check generated README
+        run: nix eval --raw --file readme.nix | diff -u README.md -
