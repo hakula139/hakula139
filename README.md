@@ -68,20 +68,10 @@
   </picture>
 </a>
 
-<p>
-<a href="https://github.com/hakula139?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.hakula.xyz/api?username=hakula139&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;show_icons=true&amp;disable_animations=true&amp;count_private=true&amp;card_width=420" />
-    <img src="https://github-stats.hakula.xyz/api?username=hakula139&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;show_icons=true&amp;disable_animations=true&amp;count_private=true&amp;card_width=420" alt="Hakula's GitHub activity" width="420" />
-  </picture>
-</a>
-<a href="https://wakatime.com/@Hakula">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=github_dark&amp;bg_color=00000000&amp;hide_border=true&amp;disable_animations=true&amp;layout=compact&amp;langs_count=10&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on" />
-    <img src="https://github-stats.hakula.xyz/api/wakatime?username=Hakula&amp;range=last_7_days&amp;theme=default&amp;bg_color=00000000&amp;hide_border=true&amp;disable_animations=true&amp;layout=compact&amp;langs_count=10&amp;card_width=420&amp;custom_title=This%20week%20I%20spent%20my%20time%20on" alt="Hakula's coding activity over the last seven days" width="420" />
-  </picture>
-</a>
-</p>
+[![Hakula's GitHub activity][GitHub activity dark]](https://github.com/hakula139?tab=repositories#gh-dark-mode-only)
+[![Hakula's GitHub activity][GitHub activity light]](https://github.com/hakula139?tab=repositories#gh-light-mode-only)
+[![Hakula's coding activity over the last seven days][WakaTime activity dark]](https://wakatime.com/@Hakula#gh-dark-mode-only)
+[![Hakula's coding activity over the last seven days][WakaTime activity light]](https://wakatime.com/@Hakula#gh-light-mode-only)
 
 </div>
 
@@ -97,3 +87,7 @@
 [IgnIt]: https://github.com/hakula139/IgnIt
 [nixos-config]: https://github.com/hakula139/nixos-config
 [Nix]: https://nixos.org/
+[GitHub activity dark]: https://github-stats.hakula.xyz/api?username=hakula139&theme=github_dark&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-dark-mode-only
+[GitHub activity light]: https://github-stats.hakula.xyz/api?username=hakula139&theme=default&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-light-mode-only
+[WakaTime activity dark]: https://github-stats.hakula.xyz/api/wakatime?username=Hakula&range=last_7_days&theme=github_dark&bg_color=00000000&hide_border=true&disable_animations=true&layout=compact&langs_count=10&card_width=420&custom_title=This%20week%20I%20spent%20my%20time%20on#gh-dark-mode-only
+[WakaTime activity light]: https://github-stats.hakula.xyz/api/wakatime?username=Hakula&range=last_7_days&theme=default&bg_color=00000000&hide_border=true&disable_animations=true&layout=compact&langs_count=10&card_width=420&custom_title=This%20week%20I%20spent%20my%20time%20on#gh-light-mode-only
