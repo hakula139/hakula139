@@ -58,6 +58,7 @@
 
 ![A snake eating Hakula's GitHub contribution graph][Contribution snake dark]
 ![A snake eating Hakula's GitHub contribution graph][Contribution snake light]
+
 [![Hakula's GitHub trophies][GitHub trophies dark]](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 [![Hakula's GitHub trophies][GitHub trophies light]](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
