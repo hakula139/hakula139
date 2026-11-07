@@ -89,8 +89,8 @@
 
 [GitHub trophies link dark]: https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only
 [GitHub trophies link light]: https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only
-[GitHub trophies dark]: https://github-profile-trophy-hakula.vercel.app/?username=hakula139&theme=darkhub&column=5&no-frame=true&no-bg=true#gh-dark-mode-only
-[GitHub trophies light]: https://github-profile-trophy-hakula.vercel.app/?username=hakula139&theme=flat&column=5&no-frame=true&no-bg=true#gh-light-mode-only
+[GitHub trophies dark]: https://github-profile-trophy.hakula.xyz/?username=hakula139&theme=darkhub&column=5&no-frame=true&no-bg=true#gh-dark-mode-only
+[GitHub trophies light]: https://github-profile-trophy.hakula.xyz/?username=hakula139&theme=flat&column=5&no-frame=true&no-bg=true#gh-light-mode-only
 
 [GitHub activity link dark]: https://github.com/hakula139?tab=repositories#gh-dark-mode-only
 [GitHub activity link light]: https://github.com/hakula139?tab=repositories#gh-light-mode-only
