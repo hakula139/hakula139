@@ -59,33 +59,45 @@
 ![A snake eating Hakula's GitHub contribution graph][Contribution snake dark]
 ![A snake eating Hakula's GitHub contribution graph][Contribution snake light]
 
-[![Hakula's GitHub trophies][GitHub trophies dark]](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-[![Hakula's GitHub trophies][GitHub trophies light]](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+[![Hakula's GitHub trophies][GitHub trophies dark]][GitHub trophies link dark]
+[![Hakula's GitHub trophies][GitHub trophies light]][GitHub trophies link light]
 
-[![Hakula's GitHub activity][GitHub activity dark]](https://github.com/hakula139?tab=repositories#gh-dark-mode-only)
-[![Hakula's GitHub activity][GitHub activity light]](https://github.com/hakula139?tab=repositories#gh-light-mode-only)
-[![Hakula's coding activity over the last seven days][WakaTime activity dark]](https://wakatime.com/@Hakula#gh-dark-mode-only)
-[![Hakula's coding activity over the last seven days][WakaTime activity light]](https://wakatime.com/@Hakula#gh-light-mode-only)
+[![Hakula's GitHub activity][GitHub activity dark]][GitHub activity link dark]
+[![Hakula's GitHub activity][GitHub activity light]][GitHub activity link light]
+[![Hakula's coding activity over the last seven days][WakaTime activity dark]][WakaTime activity link dark]
+[![Hakula's coding activity over the last seven days][WakaTime activity light]][WakaTime activity link light]
 
 </div>
 
-[JQ Investments]: https://www.jqinvestments.com
-[Honors]: https://cs.fudan.edu.cn/15/97/c24752a267671/page.htm
 [Blog]: https://hakula.xyz
-[about me]: https://hakula.xyz/about-me/
 [LinkedIn]: https://www.linkedin.com/in/hakula
 [Email]: mailto:i@hakula.xyz
+
+[JQ Investments]: https://www.jqinvestments.com
+[Honors]: https://cs.fudan.edu.cn/15/97/c24752a267671/page.htm
+[about me]: https://hakula.xyz/about-me/
 [Telegram]: https://t.me/hakulaTG
+
 [oxide-code]: https://github.com/hakula139/oxide-code
 [kiln]: https://github.com/hakula139/kiln
 [IgnIt]: https://github.com/hakula139/IgnIt
 [nixos-config]: https://github.com/hakula139/nixos-config
 [Nix]: https://nixos.org/
+
 [Contribution snake dark]: https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
 [Contribution snake light]: https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake.svg#gh-light-mode-only
+
+[GitHub trophies link dark]: https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only
+[GitHub trophies link light]: https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only
 [GitHub trophies dark]: https://github-profile-trophy-hakula.vercel.app/?username=hakula139&theme=darkhub&column=5&no-frame=true&no-bg=true#gh-dark-mode-only
 [GitHub trophies light]: https://github-profile-trophy-hakula.vercel.app/?username=hakula139&theme=flat&column=5&no-frame=true&no-bg=true#gh-light-mode-only
+
+[GitHub activity link dark]: https://github.com/hakula139?tab=repositories#gh-dark-mode-only
+[GitHub activity link light]: https://github.com/hakula139?tab=repositories#gh-light-mode-only
 [GitHub activity dark]: https://github-stats.hakula.xyz/api?username=hakula139&theme=github_dark&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-dark-mode-only
 [GitHub activity light]: https://github-stats.hakula.xyz/api?username=hakula139&theme=default&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-light-mode-only
+
+[WakaTime activity link dark]: https://wakatime.com/@Hakula#gh-dark-mode-only
+[WakaTime activity link light]: https://wakatime.com/@Hakula#gh-light-mode-only
 [WakaTime activity dark]: https://github-stats.hakula.xyz/api/wakatime?username=Hakula&range=last_7_days&theme=github_dark&bg_color=00000000&hide_border=true&disable_animations=true&layout=compact&langs_count=10&card_width=420&custom_title=This%20week%20I%20spent%20my%20time%20on#gh-dark-mode-only
 [WakaTime activity light]: https://github-stats.hakula.xyz/api/wakatime?username=Hakula&range=last_7_days&theme=default&bg_color=00000000&hide_border=true&disable_animations=true&layout=compact&langs_count=10&card_width=420&custom_title=This%20week%20I%20spent%20my%20time%20on#gh-light-mode-only
