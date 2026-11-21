@@ -67,6 +67,9 @@
 [![Hakula's coding activity over the last seven days][WakaTime activity dark]][WakaTime activity link dark]
 [![Hakula's coding activity over the last seven days][WakaTime activity light]][WakaTime activity link light]
 
+[![Hakula's WakaTime activity over the past year][WakaTime heatmap dark]][WakaTime activity link dark]
+[![Hakula's WakaTime activity over the past year][WakaTime heatmap light]][WakaTime activity link light]
+
 </div>
 
 [Blog]: https://hakula.xyz
@@ -101,3 +104,6 @@
 [WakaTime activity link light]: https://wakatime.com/@Hakula#gh-light-mode-only
 [WakaTime activity dark]: https://github-stats.hakula.xyz/api/wakatime?username=Hakula&range=last_7_days&theme=github_dark&bg_color=00000000&hide_border=true&disable_animations=true&layout=compact&langs_count=10&card_width=420&custom_title=This%20week%20I%20spent%20my%20time%20on#gh-dark-mode-only
 [WakaTime activity light]: https://github-stats.hakula.xyz/api/wakatime?username=Hakula&range=last_7_days&theme=default&bg_color=00000000&hide_border=true&disable_animations=true&layout=compact&langs_count=10&card_width=420&custom_title=This%20week%20I%20spent%20my%20time%20on#gh-light-mode-only
+
+[WakaTime heatmap dark]: https://raw.githubusercontent.com/hakula139/hakula139/wakatime-output/wakatime-heatmap-dark.svg#gh-dark-mode-only
+[WakaTime heatmap light]: https://raw.githubusercontent.com/hakula139/hakula139/wakatime-output/wakatime-heatmap.svg#gh-light-mode-only
