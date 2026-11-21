@@ -16,6 +16,8 @@
 
 ## Selected projects
 
+You can find my open-source projects at **[Hakula Lab]**.
+
 - **[oxide-code]**: Yet another coding agent, written in Rust.
 
 - **[HAKULA†CHANNEL][Blog]**: My personal blog, built from scratch with my own static site generator and theme.
@@ -78,10 +80,11 @@
 [about me]: https://hakula.xyz/about-me/
 [Telegram]: https://t.me/hakulaTG
 
-[oxide-code]: https://github.com/hakula139/oxide-code
-[kiln]: https://github.com/hakula139/kiln
-[IgnIt]: https://github.com/hakula139/IgnIt
-[nixos-config]: https://github.com/hakula139/nixos-config
+[Hakula Lab]: https://github.com/hakulab
+[oxide-code]: https://github.com/hakulab/oxide-code
+[kiln]: https://github.com/hakulab/kiln
+[IgnIt]: https://github.com/hakulab/IgnIt
+[nixos-config]: https://github.com/hakulab/nixos-config
 [Nix]: https://nixos.org/
 
 [Contribution snake dark]: https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
