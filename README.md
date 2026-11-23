@@ -92,13 +92,13 @@ You can find my open-source projects at **[Hakula Lab]**.
 
 [GitHub trophies link dark]: https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only
 [GitHub trophies link light]: https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only
-[GitHub trophies dark]: https://github-profile-trophy.hakula.xyz/?username=hakula139&theme=darkhub&column=5&no-frame=true&no-bg=true#gh-dark-mode-only
-[GitHub trophies light]: https://github-profile-trophy.hakula.xyz/?username=hakula139&theme=flat&column=5&no-frame=true&no-bg=true#gh-light-mode-only
+[GitHub trophies dark]: https://github-profile-trophy.hakula.xyz/?username=hakula139&repo-owners=hakulab,hakulattic&theme=darkhub&column=5&no-frame=true&no-bg=true#gh-dark-mode-only
+[GitHub trophies light]: https://github-profile-trophy.hakula.xyz/?username=hakula139&repo-owners=hakulab,hakulattic&theme=flat&column=5&no-frame=true&no-bg=true#gh-light-mode-only
 
 [GitHub activity link dark]: https://github.com/hakula139?tab=repositories#gh-dark-mode-only
 [GitHub activity link light]: https://github.com/hakula139?tab=repositories#gh-light-mode-only
-[GitHub activity dark]: https://github-stats.hakula.xyz/api?username=hakula139&theme=github_dark&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-dark-mode-only
-[GitHub activity light]: https://github-stats.hakula.xyz/api?username=hakula139&theme=default&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-light-mode-only
+[GitHub activity dark]: https://github-stats.hakula.xyz/api?username=hakula139&repo_owners=hakulab,hakulattic&theme=github_dark&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-dark-mode-only
+[GitHub activity light]: https://github-stats.hakula.xyz/api?username=hakula139&repo_owners=hakulab,hakulattic&theme=default&bg_color=00000000&hide_border=true&show_icons=true&disable_animations=true&count_private=true&card_width=420#gh-light-mode-only
 
 [WakaTime activity link dark]: https://wakatime.com/@Hakula#gh-dark-mode-only
 [WakaTime activity link light]: https://wakatime.com/@Hakula#gh-light-mode-only
