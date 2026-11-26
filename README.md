@@ -48,8 +48,8 @@ You can find my open-source projects at **[Hakula Lab]**.
 ### Development Environment
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons.hakula.xyz/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
-  <img src="https://skill-icons.hakula.xyz/api/icons?i=claude%2Cchatgpt%2Ccursor%2Cnixos%2Capple&amp;theme=light&amp;titles=true" alt="Claude, GPT, Cursor, Nix / NixOS, macOS" width="270" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skill-icons.hakula.xyz/api/icons?i=claude%2Cchatgpt%2Cgemini%2Czed%2Ccursor%2Cnixos%2Capple&amp;theme=dark&amp;titles=true" />
+  <img src="https://skill-icons.hakula.xyz/api/icons?i=claude%2Cchatgpt%2Cgemini%2Czed%2Ccursor%2Cnixos%2Capple&amp;theme=light&amp;titles=true" alt="Claude, GPT, Gemini, Zed, Cursor, Nix / NixOS, macOS" width="380" />
 </picture>
 
 </div>
