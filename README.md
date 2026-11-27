@@ -25,7 +25,9 @@ You can find my open-source projects at **[Hakula Lab]**.
   - **[kiln]**: A static site generator written in Rust.
   - **[IgnIt]**: A glassmorphism theme for kiln, inspired by Hugo LoveIt.
 
-- **[nixos-config]**: My [Nix] environment, including the agent harness used to build [kiln] and [oxide-code] with autonomous agents.
+- **[nixos-config]**: My [Nix] configuration for servers, workstations, and development containers.
+
+  - **[agents.nix]**: Declarative Home Manager modules for coding agents and their tooling.
 
 ## Technologies
 
@@ -86,6 +88,7 @@ You can find my open-source projects at **[Hakula Lab]**.
 [IgnIt]: https://github.com/hakulab/IgnIt
 [nixos-config]: https://github.com/hakulab/nixos-config
 [Nix]: https://nixos.org/
+[agents.nix]: https://github.com/hakulab/agents.nix
 
 [Contribution snake dark]: https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
 [Contribution snake light]: https://raw.githubusercontent.com/hakula139/hakula139/output/github-contribution-grid-snake.svg#gh-light-mode-only
